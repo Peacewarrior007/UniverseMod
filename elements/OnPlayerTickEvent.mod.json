@@ -1,0 +1,7 @@
+{
+  "_fv": 18,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"68\" y=\"173\"><field name=\"trigger\">player_ticks</field><next><block type=\"entity_override_fall\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><value name=\"height\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value><next><block type=\"call_procedure\"><field name=\"procedure\">Gravity</field></block></next></block></next></block></xml>"
+  }
+}

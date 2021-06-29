@@ -1,0 +1,62 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "OnPlayerTickEvent",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "on_player_tick_event",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Gravity",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "gravity",
+      "metadata": {
+        "return_type": "NUMBER",
+        "dependencies": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "universe_mod",
+    "modName": "Universe Mod",
+    "version": "1.0.0",
+    "author": "xiaohui, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.universemod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
